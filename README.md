@@ -5,7 +5,7 @@ Product Orders API is a minimal Laravel-based application that allows creating, 
 ## Getting Started
 
 Clone the repository:
-<pre><code>git clone </code></pre>
+<pre><code>git clone https://github.com/Pykipsi/evocommerce-test.git</code></pre>
 
 Go to project:
 <pre><code>cd evocommerce-test</code></pre>
